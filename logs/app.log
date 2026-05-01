@@ -1,0 +1,124 @@
+2026-04-27 08:53:09,875 - INFO - Project started
+2026-04-27 08:53:11,700 - INFO - Loading dataset
+2026-04-27 08:53:41,002 - INFO - Loading dataset
+2026-04-27 08:53:41,017 - INFO - Dataset loaded successfully. Shape: (98, 5)
+2026-04-27 08:54:24,204 - INFO - Checking missing values
+2026-04-27 08:54:24,253 - INFO - Missing values:
+area         0
+bedrooms     0
+bathrooms    0
+location     0
+price        0
+dtype: int64
+2026-04-27 08:58:17,778 - INFO - Checking dataset info
+2026-04-27 08:58:47,285 - INFO - Checking dataset info
+2026-04-27 08:59:49,636 - INFO - Encoding categorical data
+2026-04-27 08:59:49,658 - INFO - Encoding completed
+2026-04-27 09:00:12,577 - INFO - Splitting features and target
+2026-04-27 09:00:12,585 - INFO - Split completed
+2026-04-27 09:01:41,115 - INFO - Splitting train and test data
+2026-04-27 09:01:41,128 - INFO - Train-test split done
+2026-04-27 09:04:15,276 - INFO - Model training started
+2026-04-27 09:04:15,727 - INFO - Model training completed
+2026-04-27 09:08:20,468 - INFO - Model evaluation started
+2026-04-27 09:08:55,469 - INFO - Model evaluation started
+2026-04-27 09:08:55,626 - INFO - Predictions completed
+2026-04-27 09:08:55,647 - INFO - Train RMSE: 915.3197660011992, Test RMSE: 2276.40210668727
+2026-04-27 09:08:55,647 - INFO - Train R2: 0.9973723506507401, Test R2: 0.9851917284353596
+2026-04-27 09:08:55,649 - WARNING - Overfitting detected
+2026-04-27 09:09:40,909 - INFO - Model training started
+2026-04-27 09:09:41,345 - INFO - Model training completed
+2026-04-27 09:09:44,049 - INFO - Model evaluation started
+2026-04-27 09:09:44,152 - INFO - Predictions completed
+2026-04-27 09:09:44,180 - INFO - Train RMSE: 915.0968174677726, Test RMSE: 2268.616428876876
+2026-04-27 09:09:44,180 - INFO - Train R2: 0.9973736305514783, Test R2: 0.9852928487701604
+2026-04-27 09:09:44,184 - WARNING - Overfitting detected
+2026-04-27 09:10:01,286 - INFO - Model training started
+2026-04-27 09:10:01,595 - INFO - Model training completed
+2026-04-27 09:10:03,284 - INFO - Model evaluation started
+2026-04-27 09:10:03,315 - INFO - Predictions completed
+2026-04-27 09:10:03,328 - INFO - Train RMSE: 905.7909099576326, Test RMSE: 2216.7342521591563
+2026-04-27 09:10:03,329 - INFO - Train R2: 0.9974267757004205, Test R2: 0.985957847789062
+2026-04-27 09:10:03,329 - WARNING - Overfitting detected
+2026-04-27 09:10:14,809 - INFO - Model evaluation started
+2026-04-27 09:10:14,886 - INFO - Predictions completed
+2026-04-27 09:10:14,906 - INFO - Train RMSE: 905.7909099576326, Test RMSE: 2216.7342521591563
+2026-04-27 09:10:14,906 - INFO - Train R2: 0.9974267757004205, Test R2: 0.985957847789062
+2026-04-27 09:10:14,908 - WARNING - Overfitting detected
+2026-04-27 09:13:16,428 - INFO - Model training started
+2026-04-27 09:13:16,429 - INFO - Model training completed
+2026-04-27 09:13:18,731 - INFO - Model evaluation started
+2026-04-27 09:14:12,725 - INFO - Model training started
+2026-04-27 09:14:13,120 - INFO - Model training completed
+2026-04-27 09:14:14,709 - INFO - Model evaluation started
+2026-04-27 09:14:14,835 - INFO - Predictions completed
+2026-04-27 09:14:14,852 - INFO - Train RMSE: 920.8027777375387, Test RMSE: 2291.6615931016217
+2026-04-27 09:14:14,854 - INFO - Train R2: 0.9973407757083955, Test R2: 0.9849925334134507
+2026-04-27 09:14:14,854 - WARNING - Overfitting detected
+2026-04-27 09:28:13,822 - INFO - Train RMSE: 920.8027777375387, Test RMSE: 2291.6615931016217
+2026-04-27 09:28:13,824 - INFO - Train R2: 0.9973407757083955, Test R2: 0.9849925334134507
+2026-04-27 09:28:13,825 - WARNING - Overfitting detected
+2026-04-27 09:29:22,765 - INFO - Train RMSE: 920.8027777375387, Test RMSE: 2291.6615931016217
+2026-04-27 09:29:22,765 - INFO - Train R2: 0.9973407757083955, Test R2: 0.9849925334134507
+2026-04-27 09:29:22,767 - WARNING - Overfitting detected
+2026-04-27 09:30:05,812 - INFO - Train RMSE: 920.8027777375387, Test RMSE: 2291.6615931016217
+2026-04-27 09:30:05,814 - INFO - Train R2: 0.9973407757083955, Test R2: 0.9849925334134507
+2026-04-27 09:30:05,814 - WARNING - Overfitting detected
+2026-04-27 09:30:50,705 - INFO - Model training started
+2026-04-27 09:31:48,657 - INFO - Model training started
+2026-04-27 09:31:49,019 - INFO - Model training completed
+2026-04-27 09:39:40,754 - INFO - Model training started
+2026-04-27 09:39:41,238 - INFO - Model training completed
+2026-04-27 09:39:42,998 - INFO - Train RMSE: 1031.743648674515, Test RMSE: 2368.8665859522084
+2026-04-27 09:39:42,998 - INFO - Train R2: 0.9973407757083955, Test R2: 0.9849925334134507
+2026-04-27 09:39:42,998 - WARNING - Overfitting detected
+2026-04-27 09:40:02,947 - INFO - Model training started
+2026-04-27 09:40:03,364 - INFO - Model training completed
+2026-04-27 09:40:05,504 - INFO - Train RMSE: 3522.7996941987544, Test RMSE: 4624.567647805233
+2026-04-27 09:40:05,504 - INFO - Train R2: 0.9973407757083955, Test R2: 0.9849925334134507
+2026-04-27 09:40:05,504 - INFO - Model is well fitted
+2026-04-27 09:41:14,532 - INFO - Model saved successfully
+2026-04-27 10:15:23,914 - INFO - Project started
+2026-04-27 10:15:24,000 - INFO - Loading dataset
+2026-04-27 10:15:24,074 - INFO - Dataset loaded successfully. Shape: (98, 5)
+2026-04-27 10:15:24,208 - INFO - Checking missing values
+2026-04-27 10:15:24,216 - INFO - Missing values:
+area         0
+bedrooms     0
+bathrooms    0
+location     0
+price        0
+dtype: int64
+2026-04-27 10:15:24,267 - INFO - Checking dataset info
+2026-04-27 10:15:24,464 - INFO - Encoding categorical data
+2026-04-27 10:15:24,482 - INFO - Encoding completed
+2026-04-27 10:15:24,521 - INFO - Splitting features and target
+2026-04-27 10:15:24,523 - INFO - Split completed
+2026-04-27 10:15:24,592 - INFO - Splitting train and test data
+2026-04-27 10:15:24,602 - INFO - Train-test split done
+2026-04-27 10:15:25,127 - INFO - Model training started
+2026-04-27 10:15:25,318 - INFO - Model training completed
+2026-04-27 10:19:59,205 - INFO - Project started
+2026-04-27 10:19:59,257 - INFO - Loading dataset
+2026-04-27 10:19:59,277 - INFO - Dataset loaded successfully. Shape: (98, 5)
+2026-04-27 10:19:59,425 - INFO - Checking missing values
+2026-04-27 10:19:59,430 - INFO - Missing values:
+area         0
+bedrooms     0
+bathrooms    0
+location     0
+price        0
+dtype: int64
+2026-04-27 10:19:59,462 - INFO - Checking dataset info
+2026-04-27 10:19:59,604 - INFO - Encoding categorical data
+2026-04-27 10:19:59,611 - INFO - Encoding completed
+2026-04-27 10:19:59,627 - INFO - Splitting features and target
+2026-04-27 10:19:59,634 - INFO - Split completed
+2026-04-27 10:19:59,704 - INFO - Splitting train and test data
+2026-04-27 10:19:59,709 - INFO - Train-test split done
+2026-04-27 10:20:00,289 - INFO - Model training started
+2026-04-27 10:20:00,540 - INFO - Model training completed
+2026-04-27 10:20:00,707 - INFO - Train RMSE: 3522.7996941987544, Test RMSE: 4624.567647805233
+2026-04-27 10:20:51,054 - INFO - Train RMSE: 3522.7996941987544, Test RMSE: 4624.567647805233
+2026-04-27 10:20:51,055 - INFO - Model is well fitted
+2026-04-27 10:21:15,932 - INFO - Model saved successfully
